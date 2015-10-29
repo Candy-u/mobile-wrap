@@ -1,4 +1,4 @@
-# mobile-wrap参数
+# swipe.js参数
 startSlide: 4,  //起始图片切换的索引位置
 
 auto: 3000, //设置自动切换时间，单位毫秒
